@@ -22,3 +22,7 @@ Este repositório foi criado com o objetivo de reunir materiais educativos em fo
 1. Clone o repositório para o seu computador:
    ```bash
    git clone https://github.com/seu-usuario/ruby-basico-aulas.git
+2. Navegue até a pasta clonada:
+   ```bash
+   cd ruby-basico-aulas
+3. Acesse os PDFs na pasta pdfs e escolha o material que deseja estudar.
